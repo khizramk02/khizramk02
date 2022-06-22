@@ -31,9 +31,9 @@ khizramk02
 
   <img height='25px' alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img height='25px' alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-<!--   <img height='25px' alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-<!--   <img height='25px' alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img height='25px' alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> -->
+  <img height='25px' alt="material-ui" src="https://img.shields.io/badge/-Material%20UI-blue" />
+   <img height='25px' alt="ant-design" src="https://img.shields.io/badge/-ANT%20Design-blue" />
+<!--  <img height='25px' alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> -->
    <img height='25px' alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img height='25px' alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img height='25px' alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
